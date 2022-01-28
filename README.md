@@ -15,6 +15,11 @@ Download the project as a .zip file, then extract to a folder
 ```bash
 cd folder
 npm i 
+```
+
+## Running the script
+
+```bash
 npm run start
 ```
 
