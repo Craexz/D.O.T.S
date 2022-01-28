@@ -5,6 +5,7 @@ D.O.T.S. is a simple multiplayer in-browser game where users can move characters
 ## Requirements
 
 You need to have python installed, watch a youtube video for this if you don't know how.
+
 You also need to have nodejs installed, you can watch a youtube video for this as well.
 
 ## Installation
